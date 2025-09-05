@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "Title": "Update Linkedin",
+        "Description": "add profile summary and about section",
+        "Status": "Pending",
+        "due_date": "2025-09-05"
+    },
+    {
+        "id": 2,
+        "Title": "update github",
+        "Description": "add the capstone project",
+        "Status": "Pending",
+        "due_date": null
+    },
+    {
+        "id": 3,
+        "Title": "assignment submission",
+        "Description": "complete the internship assignment and submit it",
+        "Status": "Pending",
+        "due_date": "2024-09-05"
+    }
+]
